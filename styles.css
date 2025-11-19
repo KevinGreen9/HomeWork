@@ -25,13 +25,11 @@ body{
 .fio{
     font-weight: 700;
     font-size: 48px;
-    color: #303030;
     margin-bottom: 20px;
 }
 .text{
     font-weight: 400;
     font-size: 18px;
-    color: #303030;
 }
 img{
     max-width: 715px;
@@ -45,7 +43,6 @@ img{
     height: 36px;
     font-weight: 400;
     font-size: 16px;
-    color: #303030;
     padding: 8px 0;
     background: url(./assets/Vector.png) no-repeat right 10px  bottom 10px;
     appearance: none;
@@ -53,7 +50,6 @@ img{
 .title{
     font-weight: 700;
     font-size: 24px;
-    color: #303030;
     margin-bottom: 25px;
 }
 .list-item1{
@@ -66,18 +62,15 @@ img{
     list-style-image: url(./assets/vectorsmall.png);
     font-weight: 400;
     font-size: 16px;
-    color: #303030;
 }
 .list-item2{
     font-weight: 400;
     font-size: 16px;
-    color: #303030;
     padding-left: 20px;
 }
 .info{
     font-weight: 400;
     font-size: 16px;
-    color: #303030;
 }
 .skill{
     width: 330px;
@@ -107,7 +100,6 @@ img{
 .table{
     font-weight: 700;
     font-size: 14px;
-    color: #303030;
     border: 1px solid #95a1bb;
     border-collapse: collapse;
 }
